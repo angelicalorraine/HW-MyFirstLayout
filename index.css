@@ -1,0 +1,124 @@
+.nav {
+    display:flex;
+    background-color:#F7E4EC;
+    justify-content:center;
+    background-image:url("images/flower.png");
+    background-repeat: no-repeat;
+    background-size:cover;
+    position: relative;
+}
+
+button {
+    display:flex;
+    font-size:20px;
+    height:50px;
+    background-color:rgba(253, 90, 158, 0.514);  
+    border-color:white;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+
+
+.gel {
+    background-color:#FAD7D7;
+    display:flex;
+
+}   
+
+.leftside {
+    display:flex;
+    flex-direction:column;
+    width: 40%;
+    justify-content: center;
+    align-items: center;
+}
+
+.gelpic {
+    display:flex;
+    align-items:flex-start;
+    justify-content:center;
+    width:80%;
+    padding-top:50px;
+    height:50%;
+    padding-bottom:20px;
+    
+}
+
+.me {
+    max-width:100%;
+    max-height:100%;
+}
+
+.socialmedia {
+    display:flex;
+    height: 150px;
+    width:75%;
+    justify-content: center;
+}
+
+
+
+.linkedinlogo {
+    max-width:63%;
+    max-height:63%;
+}
+
+.facebooklogo {
+    max-width:60%;
+    max-height:60%;
+}
+
+.instagramlogo {
+    max-width:60%;
+    max-height:60%;
+}
+
+.aboutme {
+    display:flex;
+    flex-direction:column;
+    width:50%;
+    align-items: center;
+    position: static;
+
+
+}
+
+.name {
+    display:flex;
+    font-size:55px;
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(54, 54, 54);
+    letter-spacing:2px;
+    padding-top:15px;
+    height:19%;
+   
+    
+
+}
+
+.about-paragraph {
+    display:flex;
+    font-size:23px;
+    font-family: 'Roboto', sans-serif;
+    color:rgb(66, 66, 66);
+    text-align: center;
+    height:40%;
+
+}
+
+.bullets {
+    display:flex;
+    font-size:20px;
+    font-family: 'Roboto', sans-serif;
+    color:rgb(66, 66, 66);
+    height:20%;
+    padding-top:15px;
+    
+}
+
+.two {
+    height:200px;
+    background-color:rgb(231, 228, 228);
+    display:flex;
+}
